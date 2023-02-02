@@ -1,8 +1,19 @@
-### Nice to see you here! 
-My name is **Denis** </a>
+### Denis Zhesterev
+<h1 align="center">Hi there!</h1>
+---
+<p>I'm an **iOS developer**! I am excited to showcase my projects and skills to the world.</p>
 
-I'm an **iOS developer**! I am excited to showcase my projects and skills to the world.
-My goal is to create apps that not only look great but also provide a seamless user experience.
+<ul>
+  <li>Happy Coding</li>
+  <li>Software Product Sprint</li>
+  <li>Google Maps</li>
+</ul>
+
+<hr>
+
+<p> My goal is to create apps that not only look great but also provide a seamless user experience. <p>
+
+
 <!--
 **dezhest/dezhest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
