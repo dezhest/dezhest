@@ -1,6 +1,6 @@
 
-<h1 align="center">### Denis Zhesterev</h1>
-<p>I'm an **iOS developer**! I am excited to showcase my projects and skills to the world.</p>
+<h1 align="center">Denis Zhesterev</h1>
+### 🚀 <p>I'm an iOS developer! I am excited to showcase my projects and skills to the world.</p>
 <hr>
 <p> My goal is to create apps that not only look great but also provide a seamless user experience. <p>
 <!--
