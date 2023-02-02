@@ -1,4 +1,4 @@
-### Nice to see you! 
+### Nice to see you here! 
 My name is **Denis** </a>
 
 I'm an **iOS developer**! I am excited to showcase my projects and skills to the world.
