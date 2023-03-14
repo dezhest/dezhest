@@ -1,7 +1,6 @@
 
 <h1 align="center">Denis Zhesterev</h1>
 🚀  I'm iOS developer 
-<p> I am excited to showcase my projects and skills to the world.</p>
 <p> My goal is to create apps that not only look great but also provide a seamless user experience. <p>
   I like to solve examples on algorithms and logic
   
